@@ -21,3 +21,8 @@ now that you have done that, remove the "import link from githack here" DO NOT R
 
 8. step
 now you can close out of the vencord quickcss editor. have fun with your font! 
+
+
+
+YOUTUBE VIDEO! 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w4_I_ux1HM8?si=wuKeP-zZX29gE2VY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
