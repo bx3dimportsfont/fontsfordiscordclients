@@ -14,19 +14,10 @@ now go to https://raw.githack.com add paste the link that you copied. and press 
 now go to discord with the client you have. and go to edit quickcss
 
 5. step
-paste this in the quickcss window
-
-@font-face {
-    font-family: 'MyCustomDaFont';
-    src: url('import link from githack here') format('woff2');
-}
-
-*, ::placeholder, body, button, input, select, textarea {
-    font-family: 'MyCustomDaFont', sans-serif !important;
-}
-
-6. step
-now that you have done that, remove the "import link from githack here" DO NOT REMOVE THE '' IT WILL RUIN IT
+now go to the folder "paste this into discord" when you copied the code come back here 
 
 7. step
+now that you have done that, remove the "import link from githack here" DO NOT REMOVE THE '' IT WILL RUIN IT
+
+8. step
 now you can close out of the vencord quickcss editor. have fun with your font! 
