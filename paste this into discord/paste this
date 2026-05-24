@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MyCustomDaFont';
+    src: url('paste githack link here') format('woff2');
+}
+
+*, ::placeholder, body, button, input, select, textarea {
+    font-family: 'MyCustomDaFont', sans-serif !important;
+}
